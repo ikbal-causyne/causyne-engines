@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "engines": {
+    "film": {
+      "version": "0.1.0",
+      "license": "MIT",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.1.0/causyne-engine-film-darwin-arm64",
+          "sha256": "a69d37822a6cb49bc06ebb516432386d636be559027bf1cda120ad0dc164a407",
+          "size": 28619920
+        }
+      }
+    }
+  }
+}

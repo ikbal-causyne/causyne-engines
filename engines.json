@@ -54,6 +54,93 @@
           "size": 23486176
         }
       }
+    },
+    "deck": {
+      "version": "0.1.0",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/deck-v0.1.0/causyne-engine-deck-darwin-arm64",
+          "sha256": "504e0659b72327c956e52f610526b28d4dfa802da3157cb09f34ac2ef617484e",
+          "size": 20221584
+        },
+        "linux-x64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/deck-v0.1.0/causyne-engine-deck-linux-x64",
+          "sha256": "f5fed803ff2b3cb626a1ef1040fa75ee1cfcc4456d8f2ea61c2e7032739beb26",
+          "size": 23430296
+        },
+        "win32-x64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/deck-v0.1.0/causyne-engine-deck-win32-x64.exe",
+          "sha256": "ba0795038bece3f9d7170b2579020b39ca1376222c862a778f5f388e21f298ec",
+          "size": 24490496
+        }
+      }
+    },
+    "design": {
+      "version": "0.7.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.7.1/causyne-engine-design-darwin-arm64",
+          "sha256": "4d7dd89acdfcf0ced34f9c8be575dea06531cb5aa1e508c0021bd7581db9e7fd",
+          "size": 36464528
+        }
+      }
+    },
+    "word": {
+      "version": "0.6.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.6.1/causyne-engine-word-darwin-arm64",
+          "sha256": "a0b2f3d9a56e5bb818e5032e49b4997482591d98ddfdae44a5deca226af6a345",
+          "size": 31532672
+        }
+      }
+    },
+    "grid": {
+      "version": "0.6.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.6.1/causyne-engine-grid-darwin-arm64",
+          "sha256": "0759e94c83bef2b48c9fcd7f47816cd70a5c635d3f8cedfa64fc08ac6abff463",
+          "size": 12328896
+        }
+      }
+    },
+    "light": {
+      "version": "0.7.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.7.1/causyne-engine-light-darwin-arm64",
+          "sha256": "06aec9427cc57b6af35b2f8a9a427f9902762596864ebe1d18db0f7cd837d384",
+          "size": 54339176
+        }
+      }
+    },
+    "pdf": {
+      "version": "0.7.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.7.1/causyne-engine-pdf-darwin-arm64",
+          "sha256": "99574318fdbab8a26e7e867338eca6f4afa5bc5d7ea21ef528bafcf3122dd473",
+          "size": 32849504
+        }
+      }
+    },
+    "effect": {
+      "version": "0.9.2",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.9.2/causyne-engine-effect-darwin-arm64",
+          "sha256": "8093fa72e7ef73b85742c12c130da7569386fa5c3ba271a05cb15f3e9bd8a088",
+          "size": 68289392
+        }
+      }
     }
   }
 }

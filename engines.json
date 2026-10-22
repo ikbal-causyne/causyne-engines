@@ -2,13 +2,56 @@
   "schema": 1,
   "engines": {
     "film": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "license": "MIT",
       "platforms": {
         "darwin-arm64": {
-          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.1.0/causyne-engine-film-darwin-arm64",
-          "sha256": "a69d37822a6cb49bc06ebb516432386d636be559027bf1cda120ad0dc164a407",
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.1.1/causyne-engine-film-darwin-arm64",
+          "sha256": "6908932f5af5ffb0ce2d17a864a8217758bbbcc3ec2728cb57abd188e15b8ccd",
           "size": 28619920
+        },
+        "linux-x64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.1.1/causyne-engine-film-linux-x64",
+          "sha256": "790459e0b8375a6c776d079f9a7ba1b03bf8c2ed53f51c1a776278da5865ac92",
+          "size": 33992232
+        },
+        "win32-x64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.1.1/causyne-engine-film-win32-x64.exe",
+          "sha256": "4d39f3dad3e24288cc2563bebd3d6d03a104267bb03e82799b6c4497c95c8e3b",
+          "size": 38096384
+        }
+      }
+    },
+    "photo": {
+      "version": "0.8.2",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.8.2/causyne-engine-photo-darwin-arm64",
+          "sha256": "1d74b906792d7aad72513367b212bc2e5c55857b30410aef1b868ed4c22651b2",
+          "size": 38634352
+        }
+      }
+    },
+    "sound": {
+      "version": "0.6.1",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.6.1/causyne-engine-sound-darwin-arm64",
+          "sha256": "c7f6c3c4348f4ab9fb93cf5d260214298dc1e80dee5b0f9621d204f881d87af6",
+          "size": 7983024
+        }
+      }
+    },
+    "cad": {
+      "version": "0.6.2",
+      "license": "MIT OR Apache-2.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/ikbal-causyne/causyne-engines/releases/download/v0.6.2/causyne-engine-cad-darwin-arm64",
+          "sha256": "515b90efca44a28412b5257b42e69fb18286270835d3baa7d52a0fd5dc8581a8",
+          "size": 23486176
         }
       }
     }
